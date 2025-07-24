@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: paleturquoise;
+}
+h1, h2 {
+    text-align: center;
+    color: #333;
+}
+#main{
+    font-size: 1.2em;
+    line-height: 1.5;
+    color: #555;
+    margin: 20px;
+}
+img {
+    margin: 20px auto;
+    max-width: 100%;
+    height: auto;
+}
+button{
+    display: flex;
+    justify-content : center;
+    align-items: center;
+}
